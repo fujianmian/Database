@@ -1,2 +1,2 @@
 # Database
-repository to store Database project code
+Repository to store Database project code
